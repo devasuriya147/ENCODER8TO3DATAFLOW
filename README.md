@@ -64,6 +64,7 @@ endmodule
 
 
 **RESULTS**
+
 Thus program of  Encoder 8 to 3 is run successfully
 
 
